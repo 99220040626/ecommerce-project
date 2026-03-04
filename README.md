@@ -139,8 +139,11 @@ Engineered a scalable REST API using Node.js and Express, integrated with a clou
 ## 👨‍💻 Author
 
 Manyam Siva Santhosh Kumar Reddy
+
 GitHub: [https://github.com/99220040626](https://github.com/99220040626)
+
 LinkedIn: [https://linkedin.com/in/manyam-siva-santhosh-kumar-reddy](https://linkedin.com/in/manyam-siva-santhosh-kumar-reddy)
+
 Email: [sivasanthoshmanyam48@gmail.com](mailto:sivasanthoshmanyam48@gmail.com)
 
 ---
