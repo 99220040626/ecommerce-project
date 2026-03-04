@@ -137,9 +137,10 @@ Designed and developed a production-ready E-Commerce backend system with secure 
 
 ## 📧 Author
 
-Your Name
-
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+MANYAM SIVA SANTHOSH KUMAR REDDY
+GMail: sivasanthoshmanyam48@gmail.com
+LinkedLn : https://www.linkedin.com/in/manyam-siva-santhosh-kumar-reddy-297a9531b
+GitHub: https://github.com/99220040626/
 
 ---
 
